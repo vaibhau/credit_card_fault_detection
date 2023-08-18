@@ -1,6 +1,6 @@
 # Credit Card Fault Detection Case Study
 
-## Problem Statement:
+## Problem Statement
 
 ●	In this case, trainees are tasked with building a predictive model to identify fraudulent transactions for a financial company. The dataset provided contains 6,362,620 rows and 10 columns in CSV format. The goal is to develop a machine learning model that can effectively distinguish between legitimate and fraudulent transactions.
 
