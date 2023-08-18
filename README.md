@@ -1,4 +1,4 @@
-# credit Card Fault Detection Case Study
+# Credit Card Fault Detection Case Study
 
 ## Problem Statement:
 
